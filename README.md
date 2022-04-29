@@ -3,13 +3,13 @@ This project is made for pulling data out of the victims computer.
 
 Pull sensitive data from users on windows including discord tokens and chrome data.
 
--Current features-
+#### Current features
 - 🟩 Discord tokens
 - 🟩 Geolocation data
 - 🟩 Chrome passwords & cookies
 - 🟩 Screenshot
 - 🟩 Obfuscation
-- 
+
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 -Setup-
 1.Extract the zip file
